@@ -6,7 +6,7 @@ print('Odgaduj liczbę od 1 do 100, masz %s prób' %proby)
 for proba_odp in range(0,proby):
     odp=int(input("Podaj liczbę: "))
 
-    if odp >100 or odp<1:
+    if odp >100 or odp <1:
         print("Źle źle źleeeeeeeeeeeeeeee")
         continue
         
