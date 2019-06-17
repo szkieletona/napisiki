@@ -5,12 +5,12 @@ skladniki = [
 ]
 
 przyprawy = [
-    'Łyżeczka soli'
-    'Łyżeczka czosnku granulaowanego'
-    'Łyżeczka cebuli w proszku'
-    'Pół łyżeczki pieprzu czarnego'
-    'Pół łyżeczki imbiru'
-    'Łyżeczka papryki słodkiej'
+    'Łyżeczka soli',
+    'Łyżeczka czosnku granulaowanego',
+    'Łyżeczka cebuli w proszku',
+    'Pół łyżeczki pieprzu czarnego',
+    'Pół łyżeczki imbiru',
+    'Łyżeczka papryki słodkiej',
     'Pół łyżeczki papryki chili'
 ]
 
@@ -30,3 +30,6 @@ opis=[
     'Nagetsy obtaczać w panierce przygotowanej wcześniej,mięso smażyć na złocisty kolor na mocno rozgrzanym oleju prewracać od czasu do czasu.'
     'Podać ze swoim ulubionym dipem lub bez.Po usmażeniu na talerz rozłorzyć ręcznik papierowy, żeby pozbyć się nadmiaru tłuszczu.'
 ]
+
+print(len(przyprawy))
+
