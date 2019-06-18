@@ -1,0 +1,10 @@
+'C:\Users\Hemmar\Documents\z ania
+cd .\python\
+git add .
+git commit - m 'tatusiek zrobilam'
+git push (zapyta o login a potem hasło do githuba).
+
+1. stwórz trzy zmienne liczbowe i wyświetl cztery różne zadania matematyczne używając tych zmiennych.
+2. stwórz dwie zmienne tekstowe i spróbuj wyświetlić je razem tak żeby stworzyły jeden napis. przykład jest w otwartej w chromie książce.
+3. stwórz zmienną tablicową, w której będzie pięciu Twoich ulubionych bohaterów z Avengers
+4. stwórz zmienną tablicową, w której będzie pięciu najgorszych antybohaterów Marvela.
